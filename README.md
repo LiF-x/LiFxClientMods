@@ -6,7 +6,7 @@
 
 ### LiFx Mod Autoloader
 * **[core.zip](https://github.com/LiF-x/LiFxClientMods/blob/main/core.zip)**
-  * All our client mods will be autoloaded via our **core.zip** file making it simple and easy to add both initially and subsequent mods we develop. To install the autoloader copy the core.zip into your Life is Feudal:YO root folder. In most cases that's "*\Steam\steamapps\common\Life is Feudal Your Own/*" You do not need to unzip it.
+  * All our client mods will be autoloaded via the **core.zip** file making it simple and easy to add both initially and subsequent mods we develop. To install the autoloader copy the core.zip into your Life is Feudal:YO root folder. In most cases that's "*\Steam\steamapps\common\Life is Feudal Your Own/*" You do not need to unzip it.
   * All our mods use a common **/mods/** folder so you will need to create this folder in the Life is Feudal:YO root folder so you can place any desired mods into the /mods/ folder where it will be autoloaded.
   
 * If you would like to develop mods that are compatible with the LiFx Mod Autoloader you will need to follow the following framework with your mod.
