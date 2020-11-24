@@ -11,10 +11,9 @@
 /*.pak
 /*.dat
 /server
-/BasilMod
+
 /QtQuick.2
 /art
-/basilmodloader
 /core
 /daemon
 /data
@@ -23,6 +22,14 @@
 /platforms
 /shaders
 /scripts
+
+
+#Mods
+/BasilMod
+/basilmodloader
+/mod/sf-mods
+
+#credits
 CREDITS
 
 
