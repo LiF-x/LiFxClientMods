@@ -11,7 +11,7 @@
   
 * If you would like to develop mods that are compatible with the LiFx Mod Autoloader you will need to follow the following framework with your mod.
     * Your Mod must use the **/mods/** folder path.
-    * Your Mod must have an **init.cm** file in your mods root folder that calls all **exec's** within your mod.
+    * Your Mod must have an **init.cs** file in your mods root folder that calls all **exec's** within your mod.
 
 * The autoloader removes the need to manually edit your main.cs or init.cs files and looks for those commands within each mods root folder instead. For any questions or support please visit our LiFx Community discord: https://discord.gg/EH9b6tqQ4C
 
