@@ -4,7 +4,6 @@
 [![Widget for the Discord API guild](https://discord.com/api/guilds/779866175134892082/widget.png?style=shield)](https://discord.gg/EH9b6tqQ4C)
 ---
 
-&nbsp; 
 ### LiFx Origional Mods
 *
 
