@@ -20,7 +20,7 @@ if (isObject(SFGMGuiWindowLocationBar)) { SFGMGuiWindowLocationBar.delete(); }
    canSave = "1";
    canSaveDynamicFields = "1";
 
-   new GuiTextCtrl(SFGMGuiLocation) {
+   new GuiTextEditCtrl(SFGMGuiLocation) {
       text = "x: 0, y: 0, z: 0";
       maxLength = "20";
       margin = "0 0 0 0";
