@@ -9,6 +9,7 @@
 /*.zip
 /*.log
 /*.pak
+/*.dat
 /server
 /BasilMod
 /QtQuick.2
@@ -21,6 +22,7 @@
 /logs
 /platforms
 /shaders
+/scripts
 CREDITS
 
 
