@@ -5,6 +5,23 @@
 /*.ini
 /*.decals
 /*.txt
+/*.lnk
+/*.zip
+/*.log
+/*.pak
+/server
+/BasilMod
+/QtQuick.2
+/art
+/basilmodloader
+/core
+/daemon
+/data
+/gui
+/logs
+/platforms
+/shaders
 CREDITS
+
 
 
