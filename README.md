@@ -1,4 +1,4 @@
-### LiFxClientMods
+### LiFx Client Mods
 
 
 ##### Join us on our discord and take part in the community
@@ -6,7 +6,7 @@
 
 
 
-##### Mods modified
+##### LiFx Modified Mods
 * **[SkunFu GM Tools](https://skunkfu.net/sf-gm-tools/)**
   * Added: LocationBar which when in GM Mode shows your current position/coords.
   * Updated: InfoBar to not show unless in GM Mode.
