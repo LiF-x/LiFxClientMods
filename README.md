@@ -6,5 +6,9 @@
 
 
 
+#### Mods modified
+- [SkunFu GM Tools](https://skunkfu.net/sf-gm-tools/)
+
+
 Licensed with
 [GPL V3.0](LICENSE)
