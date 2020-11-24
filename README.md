@@ -7,7 +7,7 @@
 
 
 ##### Mods modified
-* [SkunFu GM Tools](https://skunkfu.net/sf-gm-tools/)
+* **[SkunFu GM Tools](https://skunkfu.net/sf-gm-tools/)**
   * Added: LocationBar which when in GM Mode shows your current position/coords.
   * Updated: InfoBar to not show unless in GM Mode.
 
