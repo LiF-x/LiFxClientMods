@@ -5,7 +5,8 @@
 ---
 
 ### LiFx Origional Mods
-*
+* **LiFx-Larger-Inventories**
+  * There are many like it, but this one is ours!
 
 &nbsp; 
 ### LiFx Modified Mods
