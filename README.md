@@ -27,7 +27,7 @@
   * Updated: InfoBar (Time/Date), to not show unless in GM Mode.
   
 * **[BadilMod:BasilLoader](https://lifeisfeudal.com/forum/basilmod-pack-t14651/)**
-  * Added: basilmod folder in /mods/ with an init.cs file to load the mod. Just copy the basilmod folder with the init.cs file into your /mods/ folder and you will not need to edit the main.cs file as the FiFx Autoloader will do it.
+  * Added a basilmod folder in /mods/ with an init.cs file insite to load the mod. Just copy the basilmod folder with the init.cs file into your /mods/ folder and you will not need to edit the main.cs file as the FiFx Autoloader will do it.
   * For basilmod specific support visit: https://lifeisfeudal.com/forum/basilmod-pack-t14651/
 
 
