@@ -17,4 +17,4 @@
 &nbsp; 
 &nbsp; 
 ---
-##### Licenced with:[GPL V3.0](LICENSE)
+##### Licenced with: [GPL V3.0](LICENSE)
