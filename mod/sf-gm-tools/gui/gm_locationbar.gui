@@ -1,0 +1,47 @@
+
+if (isObject(SFGMGuiWindowLocationBar)) { SFGMGuiWindowLocationBar.delete(); }
+
+// position = "120 33";
+// extent = "140 25";
+
+//--- OBJECT WRITE BEGIN ---
+%guiContent = new GuiControl(SFGMGuiWindowLocationBar) {
+   position = "220 33";
+   extent = "160 25";
+   minExtent = "8 2";
+   horizSizing = "right";
+   vertSizing = "middle";
+   profile = "SFGMGuiLocationBar";
+   visible = "1";
+   active = "1";
+   tooltipProfile = "GuiToolTipProfile";
+   hovertime = "1000";
+   isContainer = "1";
+   canSave = "1";
+   canSaveDynamicFields = "1";
+
+   new GuiTextCtrl(SFGMGuiLocation) {
+      text = "x: 0, y: 0, z: 0";
+      maxLength = "20";
+      margin = "0 0 0 0";
+      padding = "0 0 0 0";
+      anchorTop = "1";
+      anchorBottom = "0";
+      anchorLeft = "1";
+      anchorRight = "0";
+      position = "10 5";
+      extent = "140 15";
+      minExtent = "8 2";
+      horizSizing = "right";
+      vertSizing = "bottom";
+      profile = "SFGMGuiLocationBarText";
+      visible = "1";
+      active = "1";
+      tooltipProfile = "GuiToolTipProfile";
+      hovertime = "1000";
+      isContainer = "1";
+      canSave = "1";
+      canSaveDynamicFields = "0";
+   };
+};
+//--- OBJECT WRITE END ---
