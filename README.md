@@ -8,14 +8,11 @@
 *
 
 
-
 ### LiFx Modified Mods
 * **[https://skunkfu.net/sf-gm-tools/](https://skunkfu.net/sf-gm-tools/)**
   * Added: LocationBar which when in GM Mode shows your current position/coords.
   * Updated: InfoBar to not show unless in GM Mode.
 
 
-
----
-Licensed with
+Licensed with:
 [GPL V3.0](LICENSE)
