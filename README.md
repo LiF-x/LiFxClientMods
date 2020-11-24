@@ -4,6 +4,18 @@
 [![Widget for the Discord API guild](https://discord.com/api/guilds/779866175134892082/widget.png?style=shield)](https://discord.gg/EH9b6tqQ4C)
 ---
 
+### LiFx Mod Autoloader
+* **[core.zip](https://github.com/LiF-x/LiFxClientMods/blob/main/core.zip)**
+  * All our client mods will be autoloaded via our **core.zip** file making it simple and easy to add both initially and subsequent mods we develop. To install the autoloader copy the core.zip into your Life is Feudal:YO root folder. In most cases that's "*\Steam\steamapps\common\Life is Feudal Your Own/*" You do not need to unzip it.
+  * All our mods use a common **/mods/** folder so you will need to create this folder in the Life is Feudal:YO root folder so you can place any desired mods into the /mods/ folder where it will be autoloaded.
+  
+* If you would like to develop mods that are compatible with the LiFx Mod Autoloader you will need to follow the following framework with your mod.
+    * Your Mod must use the **/mods/** folder path.
+    * Your Mod must have an **init.cm** file in your mods root folder that calls all **exec's** within your mod.
+
+* The autoloader removes the need to manually edit your main.cs or init.cs files and looks for those commands within each mods root folder instead. For any questions or support please visit our LiFx Community discord: https://discord.gg/EH9b6tqQ4C
+
+&nbsp; 
 ### LiFx Origional Mods
 * **LiFx-Larger-Inventories**
   * There are many like it, but this one is ours!
