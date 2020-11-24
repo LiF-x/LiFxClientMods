@@ -3,13 +3,14 @@
 //-----------------------------------------------------------------------------
 
 // Set a schedule to update the Location Bar Coords every 1 second
-function sfLocationBarTimeStart()
+function sfLocationBarStart()
 {
-	cancel($sfLocationBarTime);
+	cancel($sfLocationBar);
 	
-	sfLocationBarTime();
+	if(gmBar.isAwake())
+		sfLocationBar();
 		
-	$sfLocationBarTime = schedule(1000, 0, "sfLocationBarTimeStart");
+	$sfLocationBar = schedule(1000, 0, "sfLocationBarStart");
 }
 
 // Uses the ServerConnection.getControlObject().getPosition(); function to fetch your current position
@@ -38,3 +39,4 @@ function sfLocationBar()
 		
 	}	
 }
+sfLocationBarStart();
