@@ -25,6 +25,10 @@
 * **[https://skunkfu.net/sf-gm-tools/](https://skunkfu.net/sf-gm-tools/)**
   * Added: LocationBar which when in GM Mode shows your current position/coords.
   * Updated: InfoBar (Time/Date), to not show unless in GM Mode.
+  
+* **[BasilMod:BasilLoader](https://lifeisfeudal.com/forum/basilmod-pack-t14651/)**
+  * Added a basilmod folder in /mods/ with an init.cs file inside to load the mod. Just copy the basilmod folder with the init.cs file into your /mods/ folder and you will not need to edit the main.cs file to load the mod as the LiFx Autoloader will do it.
+  * For basilmod specific support visit: https://lifeisfeudal.com/forum/basilmod-pack-t14651/
 
 
 &nbsp; 
