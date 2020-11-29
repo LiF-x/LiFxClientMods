@@ -29,9 +29,10 @@
 /basilmodloader
 /mods/sf-mods
 /mods/LiFx
-/mods/core.bat
-/mods/core.zip
-/mods/materials.cs.dso
+/zip/
+/zip/core.bat
+/zip/core.zip
+/zip/materials.cs.dso
 
 #credits
 CREDITS
