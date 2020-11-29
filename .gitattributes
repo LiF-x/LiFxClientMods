@@ -1,2 +1,3 @@
 /mods/ export-ignore
 mods/LiFx/mmoPatch.zip filter=lfs diff=lfs merge=lfs -binary
+*.zip binary
