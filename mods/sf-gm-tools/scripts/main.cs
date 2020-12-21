@@ -142,6 +142,7 @@ SFGMGuiAnimal.Add("HareData", 8);
 SFGMGuiAnimal.Add("GrouseData", 9);
 SFGMGuiAnimal.Add("DeerMaleData", 10);
 SFGMGuiAnimal.Add("BearData", 11);
+SFGMGuiAnimal.Add("ChieftainData", 12);
 
 
 //-----------------------------------------------------------------------------
