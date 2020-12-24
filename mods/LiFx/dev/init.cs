@@ -1,0 +1,1 @@
+$Trigger::renderTriggers = 1;

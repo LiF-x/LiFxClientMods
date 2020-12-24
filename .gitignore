@@ -27,7 +27,6 @@
 /BasilMod
 /basilmodloader
 /mods/sf-mods
-/mods/LiFx
 /zip/
 /zip/core.bat
 /zip/core.zip
@@ -41,3 +40,16 @@ CREDITS
 mods/materials.cs
 mods/art/materials.cs.dso
 basilmodloader.zip
+core.zip
+core.zip.crc
+mods/sf-gm-tools/init.cs.dso
+mods/sf-gm-tools/gui/gm_infobar.gui.dso
+mods/sf-gm-tools/gui/gm_locationbar.gui.dso
+mods/sf-gm-tools/gui/gm_window.gui.dso
+mods/sf-gm-tools/gui/profiles.cs.dso
+mods/sf-gm-tools/scripts/commands.cs.dso
+mods/sf-gm-tools/scripts/infobar.cs.dso
+mods/sf-gm-tools/scripts/locationbar.cs.dso
+mods/sf-gm-tools/scripts/main.cs.dso
+mods/sf-gm-tools/scripts/starterpack.cs.dso
+Tradepost/initmod.cs.dso
